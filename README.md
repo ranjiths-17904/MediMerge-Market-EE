@@ -1,0 +1,8 @@
+MEDIMERGE MARKET - A ONLINE PHARMACY MEDICINE ORDERING SITE
+
+TECH STACK : 
+              HTML
+              CSS
+              JAVASCRIPT
+              PHP
+
